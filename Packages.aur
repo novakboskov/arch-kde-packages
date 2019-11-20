@@ -1,4 +1,3 @@
-breeze-kde4
 cask
 downgrade
 hunspell-sr
@@ -6,9 +5,9 @@ k2pdfopt
 latex-mk
 ncurses5-compat-libs
 package-query
-pdftk-bin
+pdftk
 slack-desktop
 systemd-kcm
-ttf-gentium
+ttf-gentium-plus
 yay
 zotero
